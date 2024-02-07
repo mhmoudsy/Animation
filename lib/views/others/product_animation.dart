@@ -1,4 +1,4 @@
-import 'package:animation_course/views/others/tap_it.dart';
+import 'package:animation_course/views/others/tap_to_expand_it.dart';
 
 import 'package:flutter/material.dart';
 

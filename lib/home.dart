@@ -23,7 +23,7 @@ import 'package:animation_course/views/others/animated_loading_button.dart';
 import 'package:animation_course/views/others/offset_animation_test.dart';
 import 'package:animation_course/views/others/product_animation.dart';
 import 'package:animation_course/views/others/tabbar_test.dart';
-import 'package:animation_course/views/others/tap_it.dart';
+import 'package:animation_course/views/others/tap_to_expand_it.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
